@@ -1,0 +1,6 @@
+{
+  "name": "KSV Group Of Schools",
+  "description": "Official portal for KSV Group Of Schools in Karur, offering quality education across Nursery, Higher Secondary, and CBSE divisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
